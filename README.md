@@ -89,3 +89,8 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  
  * **000400000F712200 - Silver Falls: 3 Down Stars**  
  You can now control the character movement with D-Pad. (you can also use the C-Pad as default)
+ 
+ 
+ ## Credits
+
+@Kartik for creating rehid.
