@@ -60,6 +60,9 @@ List of remaped games:
  * **000400000018EF00 - Dragon Quest VII: Fragments of the Forgotten Past**  
  Simple camera remap. (L/R remapped to C-Nub)
  
+  * **0004000000166B00 - Shin Megami Tensei IV: Final**  
+ Simple camera remap. (L/R remapped to C-Nub)
+ 
  * **000400000019A200 - Shin Megami Tensei IV: Apocalypse**  
  Simple camera remap. (L/R remapped to C-Nub)
  
