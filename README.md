@@ -97,6 +97,9 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **Silver Falls: 3 Down Stars**  
  You can now control the character movement with D-Pad. (you can also use the C-Pad as default)
  
+ * **Rodea The Sky Soldier**  
+ Simple camera remap. (L/R remapped to C-Nub)
+ 
  
  ## Credits
 
