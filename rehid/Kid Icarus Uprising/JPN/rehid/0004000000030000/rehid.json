@@ -1,0 +1,14 @@
+{
+"keys":
+[
+{"get":"Y", "press":"CSLEFT"},
+{"get":"A", "press":"CSRIGHT"},
+{"get":"X", "press":"CSUP"},
+{"get":"B", "press":"CSDOWN"}
+],
+"touch":
+[
+{"get":[32, 215], "press":"ZL"},
+{"get":[75, 215], "press":"ZR"}
+]
+}
