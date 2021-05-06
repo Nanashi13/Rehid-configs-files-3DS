@@ -37,6 +37,9 @@ List of remaped games:
  * **Yo-Kai Watch**  
  Camera control with C-Stick, Bicycle, Radar and Map touch buttons remapped to ZL, ZR and Start.
  
+  * **Yo-Kai Watch 2**  
+ Camera control with C-Stick, Bicycle, Radar and Map touch buttons remapped to ZL, ZR and Start.
+ 
  * **Tom Clancy's Splinter Cell 3D**  
  The camera buttons (Y,X,A,B) were remapped to the C-Stick, the EEV Hacking touch button its       remapped to ZL, Thermal Vision touch button to ZR, Map touch button to START button and the 3     main weapons to X,Y and B buttons.
  
