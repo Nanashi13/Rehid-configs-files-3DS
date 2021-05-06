@@ -106,7 +106,7 @@ Simple camera remap. (Left/Right remapped to C-Nub)
 * **Castlevania Lords of Shadow: Mirror of Fate**  
  Chain button combo attacks (L+X and L+Y) were remapped to ZL and ZR, and the Map/Upgrade touch button its remapped to START button.
  
- * **Cartoon Network: Punch Time Explosione**  
+ * **Cartoon Network: Punch Time Explosion**  
  Button combo attacks (UP+Y and DOWN+Y) were remapped to ZL and ZR, and the Special Move touch button its remapped to START button.
  
  ## Credits
