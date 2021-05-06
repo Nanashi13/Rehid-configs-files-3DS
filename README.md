@@ -103,7 +103,7 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **Rodea The Sky Soldier**  
  Simple camera remap. (L/R remapped to C-Nub)
  
- * **Castlevania Lords of Shadow: Mirror of Fate*  
+ * **Castlevania Lords of Shadow: Mirror of Fate** 
  Chain button combo attacks (L+X and L+Y) were remapped to ZL and ZR, and the Map/Upgrade touch button its remapped to START button.
  
  
