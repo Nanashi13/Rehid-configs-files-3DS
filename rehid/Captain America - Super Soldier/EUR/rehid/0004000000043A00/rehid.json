@@ -1,9 +1,0 @@
-{
-"keys":
-[
-{"get":"LEFT", "press":"CSLEFT"},
-{"get":"RIGHT", "press":"CSRIGHT"},
-{"get":"UP", "press":"CSUP"},
-{"get":"DOWN", "press":"CSDOWN"}
-]
-}
