@@ -12,13 +12,13 @@ List of remaped games:
  Control camera with the C-Stick instead on the D-Pad, the Retreat and Dodge touch buttons were remapped to ZL and ZR, and the Take Photo touch button its remapped to START button.
  
  * **Spider-Man: Edge of Time**  
- Same camera config as Amazing Spider-Man, Time Paradox and Spider-sense touch     buttons remapped to ZL and ZR.
+ Same camera config as Amazing Spider-Man, Spider-sense and Time Paradox touch buttons remapped to ZL and ZR.
  
  * **Kid Icarus: Uprising**  
  If you choose to control the retina/camera with ABXY (you can change this on options menu), the buttons are now remapped to the C-Stick. ZL and ZR trigger the Aerial Powers , ZR also trigger any power you choose on Land battles.
  
  * **Back in 1995 64**  
- The game let you move the character only using the D-Pad. With this config, you can use the C-     Pad for movement.
+ The game let you move the character only using the D-Pad. With this config, you can use the C-Pad for movement.
  
  * **Transformers Prime: The Game**  
  C-Stick now controls the camera instead of D-Pad, Start triggers the Upgrade Power touch button.
