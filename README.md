@@ -116,6 +116,13 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **Cartoon Network: Punch Time Explosion**  
  Button combo attacks (UP+Y and DOWN+Y) were remapped to ZL and ZR, and the Special Move touch button its remapped to START button.
  
+ * **Dead or Alive: Dimensions**  
+ L button combo attacks (L+LEFT and L+RIGHT) were remapped to ZL and ZR.
+ 
+ * **The Legend of Zelda: Ocarina of Time 3D**  
+ Item I and Item II touch buttons were remapped to ZL and ZR, and the Ocarina touch button its remapped to START button.
+ 
+ 
  ## Credits
 
 @Kartik for creating rehid.
