@@ -122,6 +122,9 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **The Legend of Zelda: Ocarina of Time 3D**  
  Item I and Item II touch buttons were remapped to ZL and ZR, and the Ocarina touch button its remapped to START button.
  
+ * **Marvel Disk Wars - Avengers - Ultimate Heroes**  
+ Simple camera remap. (L/R remapped to C-Nub)
+ 
  
  ## Credits
 
