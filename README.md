@@ -126,6 +126,9 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  Simple camera remap. (L/R remapped to C-Nub)
  
  
+PD: To everyone that download my repo, i made a mistake on Kid Icarus Uprising remap, re download the repo and replace the files, the C-Nub now works perfect. (Previously, i made a mistake and the C-Nub move the retina and Pit, now its fixed)
+ 
+ 
  ## Credits
 
 @Kartik for creating rehid.
