@@ -128,9 +128,12 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **Magi - Hajimari no Meikyuu**  
  Control camera with the C-Stick instead on the D-Pad, Change Character 1, Change Character 2 and Genie power touch button remapped to ZL, ZR and START.
  
+ * **Kingdom Hearts 3D - Dream Drop Distance**  
+ Control the Command Deck with the ZL and ZR instead on the D-PAD UP and DOWN (so you can browse trough your attacks/magics while still being able to move freely) and you can summon our Dream Eaters with LEFT and RIGHT (LEFT= 1st Dream Eater, RIGHT= 2nd Dream Eater).
+ 
 **PD: To everyone that download my repo, i made a mistake on Kid Icarus Uprising remap, re download the repo and replace the files, the C-Nub now works perfect. (Previously, i made a mistake and the C-Nub move the retina and Pit, now its fixed)**
  
  
  ## Credits
-
+@Nutez of gbatemp for let me include some of his remaps
 @Kartik for creating rehid and for all his help to improving this repo!
