@@ -125,6 +125,8 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **Marvel Disk Wars - Avengers - Ultimate Heroes**  
  Simple camera remap. (L/R remapped to C-Nub)
  
+ * **Magi - Hajimari no Meikyuu**  
+ Control camera with the C-Stick instead on the D-Pad, Change Character 1, Change Character 2 and Genie power touch button remapped to ZL, ZR and START.
  
 **PD: To everyone that download my repo, i made a mistake on Kid Icarus Uprising remap, re download the repo and replace the files, the C-Nub now works perfect. (Previously, i made a mistake and the C-Nub move the retina and Pit, now its fixed)**
  
