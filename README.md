@@ -131,4 +131,4 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  
  ## Credits
 
-@Kartik for creating rehid.
+@Kartik for creating rehid and for all his help to improving this repo!
