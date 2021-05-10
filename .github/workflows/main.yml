@@ -20,3 +20,15 @@ jobs:
           python -mpip install qrcode[pil]
           python qrgenerator.py
           echo "Done."
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github action"
+          git add -A
+          git commit -m "[SKIP CI] Update QRs"
+    
+      - name: Push files
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.KEY }}
