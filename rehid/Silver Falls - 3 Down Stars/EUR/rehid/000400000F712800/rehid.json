@@ -1,9 +1,0 @@
-{ "keys":
-[
-{"get":"CRIGHT", "press":"RIGHT"},
-{"get":"CLEFT", "press":"LEFT"},
-{"get":"CUP", "press":"UP"},
-{"get":"CDOWN", "press":"DOWN"}
-],
-"dpadtocpad":true
-}

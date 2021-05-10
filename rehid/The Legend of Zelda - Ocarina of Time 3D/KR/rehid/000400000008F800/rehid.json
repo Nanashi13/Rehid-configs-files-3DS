@@ -1,8 +1,0 @@
-{
-"touch":
-[
-{"get":[300, 20], "press":"ZL"},
-{"get":[300, 220], "press":"ZR"},
-{"get":[20, 220], "press":"START"}
-]
-}
