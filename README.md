@@ -1,5 +1,6 @@
 # Rehid-configs-files-3DS
 Collection of .json files for remap controls on 3DS using Rehid.
+
 Download RehidHelper homebrew app (and Rehid) from here: https://github.com/hax0kartik/rehid/releases/tag/v2.0
 Install RehidHelper on your 3DS , open it, scan the QR code of your desired game, and that's it, you already installed the remap!
 
