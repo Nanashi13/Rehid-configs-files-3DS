@@ -1,0 +1,8 @@
+{
+"touch":
+[
+{"get":[40, 5], "press":"ZL"},
+{"get":[286, 8], "press":"ZR"},
+{"get":[35, 215], "press":"START"}
+]
+}

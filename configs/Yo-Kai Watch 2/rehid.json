@@ -1,0 +1,13 @@
+{
+"keys":
+[
+{"get":"L", "press":"CSRIGHT"},
+{"get":"R", "press":"CSLEFT"}
+],
+"touch":
+[
+{"get":[304, 187], "press":"START"},
+{"get":[235, 230], "press":"ZL"},
+{"get":[176, 230], "press":"ZR"}
+]
+}

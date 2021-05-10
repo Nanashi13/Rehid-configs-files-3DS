@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    if : "!contains(github.event.head_commit.message, '[SKIP CI]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Run Script
+        run: |
+          python -mpip install qrcode[pil]
+          python qrgenerator.py
+          echo "Done."
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github action"
+          git add -A
+          git commit -m "[SKIP CI] Update QRs"
+    
+      - name: Push files
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.KEY }}

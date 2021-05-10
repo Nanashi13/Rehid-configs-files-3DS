@@ -1,8 +1,0 @@
-{
-"keys":
-[
-{"get":"UP+Y", "press":"ZL"},
-{"get":"DOWN+Y", "press":"ZR"},
-{"get":[225, 175], "press":"START"}
-]
-}

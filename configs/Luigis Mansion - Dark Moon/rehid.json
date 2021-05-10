@@ -1,0 +1,7 @@
+{
+"keys":
+[
+{"get":"X", "press":"CSUP"},
+{"get":"B", "press":"CSDOWN"}
+]
+}
