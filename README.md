@@ -132,7 +132,9 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  * **Kingdom Hearts 3D - Dream Drop Distance**  
  Control the Command Deck with the ZL and ZR instead on the D-PAD UP and DOWN (so you can browse trough your attacks/magics while still being able to move freely) and you can summon our Dream Eaters with LEFT and RIGHT (LEFT= 1st Dream Eater, RIGHT= 2nd Dream Eater).
  
-**PD: To everyone that download my repo, i made a mistake on Kid Icarus Uprising remap, re download the repo and replace the files, the C-Nub now works perfect. (Previously, i made a mistake and the C-Nub move the retina and Pit, now its fixed)**
+ * **Xenoblade Chronicles 3D**  
+ Control the Menu with the ZL and ZR instead on the D-PAD LEFT and RIGTH (so you can browse trough the menu while still being able to move freely) , ZL (Map of the area in which your character is located) was remapped to START button and ZR (adjust camera angle and zoom in/out) to L+R buttons. (So now you can't press it accidentally)
+ 
  
  
  ## Credits
