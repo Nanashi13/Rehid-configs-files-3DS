@@ -78,9 +78,6 @@ List of remaped games:
  * **Shin Megami Tensei IV**  
  Simple camera remap. (L/R remapped to C-Nub)
  
- * **Shin Megami Tensei IV: Apocalypse/Final**  
- Map touch button remapped to START button.
- 
  * **Naruto Shippuden 3D : The New Era / Naruto Shippuden: Shinobi Rittai Emaki! Saikyou Ninkai Kessen!!**  
  Senin Mode touch button remapped to START.
  
