@@ -1,0 +1,9 @@
+{
+"keys":
+[
+{"get":"LEFT", "press":"ZL"},
+{"get":"RIGHT", "press":"ZR"},
+{"get":"ZR", "press":"START"},
+{"get":"ZL", "press":"L+R"}
+]
+}
