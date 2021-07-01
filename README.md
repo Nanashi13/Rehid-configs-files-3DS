@@ -130,7 +130,7 @@ Simple camera remap. (Left/Right remapped to C-Nub)
  Control the Command Deck with the ZL and ZR instead on the D-PAD UP and DOWN (so you can browse trough your attacks/magics while still being able to move freely) and you can summon our Dream Eaters with LEFT and RIGHT (LEFT= 1st Dream Eater, RIGHT= 2nd Dream Eater).
  
  * **Xenoblade Chronicles 3D**  
- Control the Menu with the ZL and ZR instead on the D-PAD LEFT and RIGTH (so you can browse trough the menu while still being able to move freely) , ZL (Map of the area in which your character is located) was remapped to START button and ZR (adjust camera angle and zoom in/out) to L+R buttons. (So now you can't press it accidentally)
+ Control the Menu with the ZL and ZR instead on the D-PAD LEFT and RIGTH (so you can browse trough the menu while still being able to move freely) , ZL (Map of the area in which your character is located) was remapped to the Mini Map ont the Touchscreen (So if you touch the Mini Map, it will open the bigger one. You can also use L+R buttons to open it)  and ZR (adjust camera angle and zoom in/out) to START button. (So now you can't press it accidentally)
  
  
  
