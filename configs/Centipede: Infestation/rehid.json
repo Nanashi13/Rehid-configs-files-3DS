@@ -1,0 +1,1 @@
+{"keys":[{"press":"CSUP","get":"X"},{"press":"CSDOWN","get":"B"},{"press":"CSRIGHT","get":"A"},{"press":"CSLEFT","get":"Y"}],"touch":[{"press":"UP","get":[69,71]},{"press":"RIGHT","get":[243,68]},{"press":"LEFT","get":[74,177]},{"press":"DOWN","get":[264,194]}],"overridecpadpro":true}
